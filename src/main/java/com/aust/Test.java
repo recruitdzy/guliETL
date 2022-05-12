@@ -16,6 +16,7 @@ public class Test {
         System.out.println("这是2222222222223");
 
         System.out.println("push test");
+        System.out.println("push 2");
 
 //        分支合并
 
